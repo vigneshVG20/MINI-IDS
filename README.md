@@ -35,7 +35,7 @@ pip install scapy
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/mini-ids.git
+https://github.com/vigneshVG20/MINI-IDS.git
 cd mini-ids
 ```
 
@@ -155,5 +155,5 @@ This project is intended for educational and ethical cybersecurity purposes only
 
 Aspiring SOC Analyst | Cybersecurity Enthusiast
 
-* LinkedIn: https://www.linkedin.com/in/vignesh-s-bbaba6397
-* GitHub: https://github.com/your-username
+* LinkedIn: linkedin.com/in/vignesh-s20
+* GitHub: github.com/vigneshVG20
